@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+t2ETP+hpvuhuzhSQBTnMwIA7lg93WhX8g15iZxasyq53ZQFXLJwFxnRNahU3ZCngVTD7jix3VWETzr+/kcfLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zach\\source\\repos\\MovieList10\\MovieList10\\MovieList10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zach\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
